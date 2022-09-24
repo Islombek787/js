@@ -1,0 +1,2 @@
+# js
+js.script fail
